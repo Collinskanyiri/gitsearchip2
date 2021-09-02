@@ -1,0 +1,23 @@
+.navBar-dark a {
+    float: left;
+    display: block;
+    color: rgb(231, 199, 17);
+    text-align: right;
+    padding: 15px 17px;
+    font-size: 25px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.navBar-dark {
+    overflow: hidden;
+    background-color: #21327a;
+}
+
+#intro-text {
+    font-size: large;
+    color: rgb(255, 238, 0);
+}
