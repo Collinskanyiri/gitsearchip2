@@ -1,10 +1,31 @@
-# Githubsearch
+# GitSearch
 
+## Author
+
+[Collins Kanyiri](https://https://github.com/Collinskanyiri)
+
+## Description
+
+This is an angular application, which a client can search for users and repositories that are on  github.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## installation/setup installation
+
+open terminal
+git clone repository <https://github.com/Collinskanyiri/gitsearchip2.git>
+cd gitsearchip2
+code . to open in text editor
+
+## Technology Used
+
+HTML
+CSS
+Bootstrap
+AngularCli
 
 ## Code scaffolding
 
